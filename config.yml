@@ -11,8 +11,6 @@ params:
   socialIcons: # optional
     - name: "github"
       url: "https://github.com/javimostoles"
-    # - name: "youtube"
-    #   url: "https://www.youtube.com/channel/XXX"
     - name: "twitter"
       url: "https://twitter.com/javimostoles"
     # - name: "kofi"
@@ -43,14 +41,14 @@ menu:
       url: /categories/
       weight: 10
     - identifier: tags
-      name: Tags
+      name: Etiquetas
       url: /tags/
       weight: 20
     - identifier: search
-      name: Search
+      name: Búsqueda
       url: /search/
       weight: 20
     - identifier: archive
-      name: Archive
+      name: Archivo
       url: /archives/
       weight: 20
