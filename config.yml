@@ -1,6 +1,6 @@
-baseURL: https://githubuser.github.io
-languageCode: en-us
-title: Linus Torvalds
+baseURL: https://javimostoles.github.io
+languageCode: es-ES
+title: Javi Pérez
 theme: "PaperMod"
 
 params:
