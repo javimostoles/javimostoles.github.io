@@ -1,12 +1,12 @@
 baseURL: https://javimostoles.github.io
 languageCode: es-ES
-title: Javier
+title: BASB meets Logseq
 theme: "PaperMod"
 
 params:
   homeInfoParams:
     Title: Bienvenidos 😎
-    Content: Blog en el que iré recopilando los aprendizajes que realice sobre logseq y la metodología BASB. 
+    Content: Blog en el que iré recopilando los aprendizajes que realice sobre Logseq y la metodología BASB. 
 
   socialIcons: # optional
     - name: "github"
