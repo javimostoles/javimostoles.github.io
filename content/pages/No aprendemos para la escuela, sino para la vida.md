@@ -1,16 +1,14 @@
 ---
-coverimage: /assets/binary-search_1673042669678_0.jpeg
-title: Non scholae, sed vitae discimus
+coverimage: /assets/portada01.jpeg
+title: No aprendemos para la escuela, sino para la vida
 tags:
 categories:
 date: 2023-01-10
 lastMod: 2023-01-12
 ---
-![MacBook Pro near white open book](https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=mnwyndywndl8mhwxfhnlyxjjahwyfhx3cml0aw5nfgvufdb8fhx8mty3mzm2nzu2mg&ixlib=rb-4.0.3&q=80&w=400)
+![portada01.jpeg](/assets/portada01_1673544520946_0.jpeg)
 
 ## *«Non scholae, sed vitae discimus»*
-
-## *«No aprendemos para la escuela, sino para la vida»*
 
 La locución latina que titula este post apareció en las [Cartas a Lucilio](https://es.wikipedia.org/wiki/Cartas_a_Lucilio) de [Séneca El Jóven](https://es.wikipedia.org/wiki/S%C3%A9neca)
 
@@ -38,7 +36,7 @@ Así fue cómo llegue hasta *Hábitos atómicos* de *James Clear* y *Building a 
 
 Logseq era un editor *Outliner* pero... ¿Qué diablos era un [editor outliner]({{< ref "/pages/editor outliner" >}})?
 
-¿Quieres aprender sobre Logseq? [Comienza aquí]({{< ref "/pages/Comienza aqui" >}})
+¿Quieres aprender sobre Logseq? [Comienza aqui]({{< ref "/pages/Comienza aqui" >}})
 
 Uno de los descubrimientos que hice buscando información sobre Logseq fue el blog de https://briansunter.com/
 (Bro, if you read this, thanks for help me with my graph. It works!! You rocks! 🤘😎)

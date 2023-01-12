@@ -42,7 +42,7 @@ menu:
           name: Archivo
           url: /archives/
           weight: 20
-        - identifier: search
+        - identifier: Búsqueda
           name: Búsqueda
           url: /search/
           weight: 30
